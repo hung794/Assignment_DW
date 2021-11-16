@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url("../img/hn3-15848534443331947675592.jpg");
+    background-size: cover;
+    color: white;
+}
+
+td{
+    color: white;
+}
